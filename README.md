@@ -28,4 +28,4 @@ Also fetching data from the network and integrating persisted data in the databa
 ![kotlin](https://user-images.githubusercontent.com/24237865/102366932-8a53fa80-3ffc-11eb-8131-fd6745a6f079.png)
 
 ## Architecture
-Pokedex is based on MVVM architecture and a repository pattern.
+based on MVVM architecture and a repository pattern.
